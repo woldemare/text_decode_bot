@@ -1,7 +1,7 @@
 import telebot
 import random
 
-token='1868640242:AAH04W06aibcmL6WUEQn9ZH6FCvz7pQEdD0'
+token='your_token'
 bot=telebot.TeleBot(token)
 
 def crypt(s, key):
